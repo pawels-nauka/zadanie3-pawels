@@ -1,1 +1,2 @@
 To jest zwykły plik tekstowy.
+Dodaję nową linię.
