@@ -1,2 +1,3 @@
 Pojawia się drugi plik txt 
 Plik2 druga linia.
+Trzecia linia.
