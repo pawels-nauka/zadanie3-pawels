@@ -1,0 +1,1 @@
+To jest zwykły plik tekstowy.
