@@ -1,1 +1,4 @@
 To jest zwykły plik tekstowy.
+Dodaję nową linię.
+Kolejna linia notatki.
+Trzecia linia notatki.
